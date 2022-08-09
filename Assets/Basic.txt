@@ -1,0 +1,1 @@
+Bool True; Byte 1; Float 48; Double 127; Long 127; Char a; Int 127
